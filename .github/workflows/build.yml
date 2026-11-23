@@ -4,7 +4,7 @@ name: Build SY108 OpenWrt
 #        .github/workflows/build.yml
 # 然后到 Actions 页面点 "Run workflow"。
 
-on:
+'on':
   workflow_dispatch:
     inputs:
       jobs:
